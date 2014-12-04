@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTableViewDemo/DetailViewController.swift"
+            timestampString = "439426888.699353"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.books.setter : Swift.Array&lt;MyTableViewDemo.Book&gt;"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.071286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.books.materializeForSet : Swift.Array&lt;MyTableViewDemo.Book&gt;"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.071433"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.init (MyTableViewDemo.DetailViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; MyTableViewDemo.DetailViewController"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.07168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.init (MyTableViewDemo.DetailViewController.Type)() -&gt; MyTableViewDemo.DetailViewController"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.071987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.init (MyTableViewDemo.DetailViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; MyTableViewDemo.DetailViewController"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.072221"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTableViewDemo/DetailViewController.swift"
+            timestampString = "439426898.767277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.selectedShelf.getter : MyTableViewDemo.Shelf"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.097215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.selectedShelf.materializeForSet : MyTableViewDemo.Shelf"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.097644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.init (MyTableViewDemo.DetailViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; MyTableViewDemo.DetailViewController"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.097844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.init (MyTableViewDemo.DetailViewController.Type)() -&gt; MyTableViewDemo.DetailViewController"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.098052"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTableViewDemo.DetailViewController.init (MyTableViewDemo.DetailViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; MyTableViewDemo.DetailViewController"
+                  moduleName = "MyTableViewDemo"
+                  urlString = "file:///Users/rodrigocarballo/Documents/PublicLibrary4/MyTableViewDemo/DetailViewController.swift"
+                  timestampString = "439427414.098363"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTableViewDemo/Shelf.swift"
+            timestampString = "439427327.903794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "BooksHeldInShelf(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
